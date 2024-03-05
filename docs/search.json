@@ -4,7 +4,7 @@
     "href": "reproducibility-supplement.html#data-tidying",
     "title": "Reproducibility Supplement",
     "section": "Data Tidying",
-    "text": "Data Tidying"
+    "text": "Data Tidying\n\nData Dictionary"
   },
   {
     "objectID": "reproducibility-supplement.html#data-preprocessing",
@@ -26,6 +26,13 @@
     "title": "Reproducibility Supplement",
     "section": "Model Evaluation",
     "text": "Model Evaluation"
+  },
+  {
+    "objectID": "reproducibility-supplement.html#visualizations",
+    "href": "reproducibility-supplement.html#visualizations",
+    "title": "Reproducibility Supplement",
+    "section": "Visualizations",
+    "text": "Visualizations"
   },
   {
     "objectID": "index.html",
@@ -75,5 +82,19 @@
     "title": "Linking recreational visitation and environmental conditions to predict the cost and welfare impacts of future environmental scenarios in the High Sierra",
     "section": "Conclusion",
     "text": "Conclusion"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Linking recreational visitation and environmental conditions to predict the cost and welfare impacts of future environmental scenarios in the High Sierra",
+    "section": "References",
+    "text": "References\nGregory N. Bratman et al. ,Nature and mental health: An ecosystem service perspective.Sci. Adv.5,eaax0903(2019).DOI:10.1126/sciadv.aax0903\nNull, S. E., Viers, J. H., & Mount, J. F. (2010). Hydrologic response and watershed sensitivity to climate warming in california’s sierra nevada. PLoS ONE, 5(4), e9932. https://doi.org/10.1371/journal.pone.0009932\nGuan, B., Molotch, N. P., Waliser, D. E., Fetzer, E. J., & Neiman, P. J. (2013). The 2010/2011 snow season in california’s sierra nevada: role of atmospheric rivers and modes of large-scale variability. Water Resources Research, 49(10), 6731-6743. https://doi.org/10.1002/wrcr.20537\nLigare, S. T., Viers, J. H., Null, S. E., Rheinheimer, D. E., & Mount, J. F. (2011). Non‐uniform changes to whitewater recreation in california’s sierra nevada from regional climate warming. River Research and Applications, 28(8), 1299-1311. https://doi.org/10.1002/rra.1522\nStreib, L. C., Stone, J. R., Lyon, E., Quang, H. H., Yeager, K. M., Zimmerman, S., … & McGlue, M. M. (2021). Anthropogenic climate change has altered lake state in the sierra nevada (california, usa). Global Change Biology, 27(23), 6059-6070. https://doi.org/10.1111/gcb.15843\nViers, J. H. and Rheinheimer, D. E. (2011). Freshwater conservation options for a changing climate in California’s sierra nevada. Marine and Freshwater Research, 62(3), 266. https://doi.org/10.1071/mf09286\nBatker D, Christin Z, Schmidt R and Torre I D 2013 The Economic Impact of the 2013 Rim Fire on Natural Lands: Preliminary Assessment (Tacoma, WA) Google Scholar\nNational Park Service. (2024, February 21). NPS visitor use statistics. U.S. National Park Service. Retrieved March 4, 2024, from https://www.nps.gov/subjects/socialscience/visitor-use-statistics.htm\nU.S. Department of Agriculture, Forest Service. (n.d.). Inyo National Forest - History & Culture. Retrieved March 4, 2024, from https://www.fs.usda.gov/detail/inyo/learning/history-culture/?cid=fsbdev3_003745\nWickham H, Vaughan D, Girlich M (2024). tidyr: Tidy Messy Data. R package version 1.3.1, https://github.com/tidyverse/tidyr, https://tidyr.tidyverse.org.\nWickham H, François R, Henry L, Müller K, Vaughan D (2023). dplyr: A Grammar of Data Manipulation. R package version 1.1.4, https://github.com/tidyverse/dplyr, https://dplyr.tidyverse.org.\nH2O.ai. (2022) h2o: R Interface for H2O. R package version 3.42.0.2. https://github.com/h2oai/h2o-3."
+  },
+  {
+    "objectID": "reproducibility-supplement.html#computational-environment",
+    "href": "reproducibility-supplement.html#computational-environment",
+    "title": "Reproducibility Supplement",
+    "section": "Computational Environment",
+    "text": "Computational Environment\n\n\n─ Session info ───────────────────────────────────────────────────────────────\n setting  value\n version  R version 4.2.3 (2023-03-15 ucrt)\n os       Windows 10 x64 (build 22621)\n system   x86_64, mingw32\n ui       RTerm\n language (EN)\n collate  English_United States.utf8\n ctype    English_United States.utf8\n tz       Pacific/Honolulu\n date     2024-03-05\n pandoc   3.1.1 @ C:/Program Files/RStudio/resources/app/bin/quarto/bin/tools/ (via rmarkdown)\n\n─ Packages ───────────────────────────────────────────────────────────────────\n ! package     * version date (UTC) lib source\n P cachem        1.0.8   2023-05-01 [?] RSPM (R 4.2.0)\n P cli           3.6.2   2023-12-11 [?] CRAN (R 4.2.3)\n P devtools      2.4.5   2022-10-11 [?] CRAN (R 4.2.3)\n P digest        0.6.34  2024-01-11 [?] CRAN (R 4.2.3)\n P ellipsis      0.3.2   2021-04-29 [?] RSPM (R 4.2.0)\n P evaluate      0.23    2023-11-01 [?] RSPM (R 4.2.0)\n P fastmap       1.1.1   2023-02-24 [?] RSPM (R 4.2.0)\n P fs            1.6.3   2023-07-20 [?] RSPM (R 4.2.0)\n P glue          1.7.0   2024-01-09 [?] CRAN (R 4.2.3)\n P htmltools     0.5.7   2023-11-03 [?] RSPM (R 4.2.0)\n P htmlwidgets   1.6.4   2023-12-06 [?] CRAN (R 4.2.3)\n P httpuv        1.6.14  2024-01-26 [?] CRAN (R 4.2.3)\n P jsonlite      1.8.8   2023-12-04 [?] RSPM (R 4.2.0)\n P knitr         1.45    2023-10-30 [?] RSPM (R 4.2.0)\n P later         1.3.2   2023-12-06 [?] CRAN (R 4.2.3)\n P lifecycle     1.0.4   2023-11-07 [?] RSPM (R 4.2.0)\n P magrittr      2.0.3   2022-03-30 [?] RSPM (R 4.2.0)\n P memoise       2.0.1   2021-11-26 [?] RSPM (R 4.2.0)\n P mime          0.12    2021-09-28 [?] RSPM (R 4.2.0)\n P miniUI        0.1.1.1 2018-05-18 [?] CRAN (R 4.2.3)\n P pkgbuild      1.4.3   2023-12-10 [?] CRAN (R 4.2.3)\n P pkgload       1.3.4   2024-01-16 [?] CRAN (R 4.2.3)\n P profvis       0.3.8   2023-05-02 [?] CRAN (R 4.2.3)\n P promises      1.2.1   2023-08-10 [?] CRAN (R 4.2.3)\n P purrr         1.0.2   2023-08-10 [?] RSPM (R 4.2.0)\n P R6            2.5.1   2021-08-19 [?] RSPM (R 4.2.0)\n P Rcpp          1.0.12  2024-01-09 [?] CRAN (R 4.2.3)\n P remotes       2.4.2.1 2023-07-18 [?] CRAN (R 4.2.3)\n   renv          1.0.5   2024-02-29 [1] CRAN (R 4.2.3)\n P rlang         1.1.3   2024-01-10 [?] CRAN (R 4.2.3)\n P rmarkdown     2.25    2023-09-18 [?] RSPM (R 4.2.0)\n P rstudioapi    0.15.0  2023-07-07 [?] RSPM (R 4.2.0)\n P sessioninfo   1.2.2   2021-12-06 [?] CRAN (R 4.2.3)\n P shiny         1.8.0   2023-11-17 [?] CRAN (R 4.2.3)\n P stringi       1.8.3   2023-12-11 [?] CRAN (R 4.2.3)\n P stringr       1.5.1   2023-11-14 [?] RSPM (R 4.2.0)\n P urlchecker    1.0.1   2021-11-30 [?] CRAN (R 4.2.3)\n P usethis       2.2.3   2024-02-19 [?] CRAN (R 4.2.3)\n P vctrs         0.6.5   2023-12-01 [?] RSPM (R 4.2.0)\n P xfun          0.42    2024-02-08 [?] CRAN (R 4.2.3)\n P xtable        1.8-4   2019-04-21 [?] CRAN (R 4.2.3)\n P yaml          2.3.8   2023-12-11 [?] CRAN (R 4.2.3)\n\n [1] C:/Users/4p0nc/OneDrive - hawaii.edu/Desktop/high-sierras-nf-rfm/github-repo/high-sierras-nf-rfm/renv/library/R-4.2/x86_64-w64-mingw32\n [2] C:/Users/4p0nc/AppData/Local/R/cache/R/renv/sandbox/R-4.2/x86_64-w64-mingw32/19d6eec0\n\n P ── Loaded and on-disk path mismatch.\n\n──────────────────────────────────────────────────────────────────────────────"
   }
 ]

@@ -2,16 +2,32 @@
 title: "Reproducibility Supplement"
 toc-title: Data Analysis Workflow
 toc-location: left
-
+code-annotations: hover
+code-fold: true
+code-overflow: wrap
 ---
 
 ## Data Collection
 
+
+
 ## Data Tidying
+
+### Data Dictionary
 
 ## Data Preprocessing
 
 ## Model Building
 
 ## Model Evaluation
+
+## Visualizations
+
+## Computational Environment
+
+```{r}
+#| label: computational-env
+#| echo: false
+devtools::session_info()
+```
 
