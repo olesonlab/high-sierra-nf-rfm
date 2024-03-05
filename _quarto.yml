@@ -11,6 +11,7 @@ execute:
   message: false
 
 website:
+  title: "High Sierra National Forests RFM and TCM"
   navbar:
     left:
       - href: index.qmd
