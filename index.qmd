@@ -1,5 +1,5 @@
 ---
-title: "<center>Linking recreational visitation and <br> environmental conditions to predict the cost and welfare impacts of future environmental scenarios in the High Sierra</center>"
+title: "Linking recreational visitation and environmental conditions to predict the cost and welfare impacts of future environmental scenarios in the High Sierra"
 author:
   - name: "Mia Comeros"
     affiliation: 
@@ -29,7 +29,6 @@ abstract: |
   6. Model results indicate that seasonal recreation is sensitive to site-specific observed environmental conditions, with implications for predicting changes in seasonal visitation due to future climate change effects. For example, we can enhance the model to forecast future shifts in recreational demand by incorporating downscaled climate projections, such as LOCA VIC data for snow water, temperature, wind speed, and precipitation in California. Furthermore, the model can be expanded to encompass additional National Forests in California and in other states. It is also adaptable for integrating hydrological and fire predictive models from the INFEWS project's Envision model, a geospatial framework designed to facilitate the analysis of coupled human-natural systems over various temporal and spatial scales. 
   7. Our research provides a foundation for predictive modeling of nature-based recreation patterns, empowering managers and stakeholders to identify and direct resources to priority areas, develop effective adaptation and management strategies, and leverage this information for improved education and decision-making. 
 toc-title: Table of Contents
-css: styles.scss
 bibliography: references.bib
 ---
 
