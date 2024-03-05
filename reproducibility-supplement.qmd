@@ -1,0 +1,17 @@
+---
+title: "Reproducibility Supplement"
+toc-title: Data Analysis Workflow
+toc-location: left
+
+---
+
+## Data Collection
+
+## Data Tidying
+
+## Data Preprocessing
+
+## Model Building
+
+## Model Evaluation
+

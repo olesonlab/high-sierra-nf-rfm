@@ -7,21 +7,26 @@ project:
     
 execute:
   freeze: auto
+  warning: false
+  message: false
 
 website:
-  title: |
-    "Linking recreational visitation and environmental conditions to predict the 
-    cost and welfare impacts of future environmental scenarios in the High Sierra <br>"
   navbar:
     left:
       - href: index.qmd
+        text: Report
+      - href: reproducibility-supplement.qmd
+        text: Reproducibility Supplement
   back-to-top-navigation: true
     
 format:
   html:
-    theme: 
-      - lumen
-      - styles.scss
+    theme: litera
     toc: true
-    fontsize: 15pt
+    toc-location: left    
+    fontsize: 12pt
     page-layout: full
+    margin-header: |
+      ![](/www/logos/uhm-logo.png) <br><br>
+      ![](/www/logos/nmbu-logo.png) <br><br>
+      ![](/www/logos/uc-merced-logo.png) <br><br>
