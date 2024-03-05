@@ -180,3 +180,30 @@ To estimate the TC model, some observations are excluded from the estimations by
 ## Future Considerations
 
 ## Conclusion
+
+## References
+
+Gregory N. Bratman et al. ,Nature and mental health: An ecosystem service perspective.Sci. Adv.5,eaax0903(2019).DOI:10.1126/sciadv.aax0903
+
+Null, S. E., Viers, J. H., & Mount, J. F. (2010). Hydrologic response and watershed sensitivity to climate warming in california's sierra nevada. PLoS ONE, 5(4), e9932. https://doi.org/10.1371/journal.pone.0009932
+
+Guan, B., Molotch, N. P., Waliser, D. E., Fetzer, E. J., & Neiman, P. J. (2013). The 2010/2011 snow season in california's sierra nevada: role of atmospheric rivers and modes of large-scale variability. Water Resources Research, 49(10), 6731-6743. https://doi.org/10.1002/wrcr.20537
+
+Ligare, S. T., Viers, J. H., Null, S. E., Rheinheimer, D. E., & Mount, J. F. (2011). Non‐uniform changes to whitewater recreation in california's sierra nevada from regional climate warming. River Research and Applications, 28(8), 1299-1311. https://doi.org/10.1002/rra.1522
+
+Streib, L. C., Stone, J. R., Lyon, E., Quang, H. H., Yeager, K. M., Zimmerman, S., … & McGlue, M. M. (2021). Anthropogenic climate change has altered lake state in the sierra nevada (california, usa). Global Change Biology, 27(23), 6059-6070. https://doi.org/10.1111/gcb.15843
+
+Viers, J. H. and Rheinheimer, D. E. (2011). Freshwater conservation options for a changing climate in California’s sierra nevada. Marine and Freshwater Research, 62(3), 266. https://doi.org/10.1071/mf09286
+
+Batker D, Christin Z, Schmidt R and Torre I D 2013 The Economic Impact of the 2013 Rim Fire on Natural Lands: Preliminary Assessment (Tacoma, WA)
+Google Scholar
+
+National Park Service. (2024, February 21). NPS visitor use statistics. U.S. National Park Service. Retrieved March 4, 2024, from https://www.nps.gov/subjects/socialscience/visitor-use-statistics.htm
+
+U.S. Department of Agriculture, Forest Service. (n.d.). Inyo National Forest - History & Culture. Retrieved March 4, 2024, from https://www.fs.usda.gov/detail/inyo/learning/history-culture/?cid=fsbdev3_003745
+
+Wickham H, Vaughan D, Girlich M (2024). tidyr: Tidy Messy Data. R package version 1.3.1, https://github.com/tidyverse/tidyr, https://tidyr.tidyverse.org.
+
+Wickham H, François R, Henry L, Müller K, Vaughan D (2023). dplyr: A Grammar of Data Manipulation. R package version 1.1.4, https://github.com/tidyverse/dplyr, https://dplyr.tidyverse.org.
+
+H2O.ai. (2022) h2o: R Interface for H2O. R package version 3.42.0.2. https://github.com/h2oai/h2o-3.
