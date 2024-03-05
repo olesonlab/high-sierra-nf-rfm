@@ -1,0 +1,222 @@
+VPDUNIT_ID,PROXYCODE,COMPLIANCE_RATE,SITETYPE,SITENAME,RD_CODE,SITENUMBER,AFOREST_CODE,survey_round,APR_JUN,JUL_SEP,OCT_DEC,JAN_MAR,TOTAL,APR_JUN_COUNT_ADJUSTED,JUL_SEP_COUNT_ADJUSTED,OCT_DEC_COUNT_ADJUSTED,JAN_MAR_COUNT_ADJUSTED,TOTAL_COUNT_ADJUSTED
+513,FR1,1,DUDS,Boyden Cavern,Hume Lake RD,11141,A05013,2,5607,13899,1185,0,20691,5607,13899,1185,0,20691
+513,FR3,   1,DUDS,Live Oak Picnic,Greenhorn RD,11229,A05013,2,64,114,0,0,178,64,114,0,0,178
+513,FR3,   1,DUDS,Lower Richbar Picnic,Greenhorn RD,11230,A05013,2,75,193,0,0,268,75,193,0,0,268
+513,FR3,   1,DUDS,Upper Richbar Family Picnic,Greenhorn RD,11231,A05013,2,225,568,0,0,793,225,568,0,0,793
+513,FR3,   1,DUDS,Miracle Hot Springs Picnic,Greenhorn RD,65076,A05013,2,138,145,151,249,683,138,145,151,249,683
+513,SUP4,   1,OUDS,Camp 4 1/2 Cabin,Hume Lake RD,75,A05013,2,40,58,20,0,118,40,58,20,0,118
+513,SUP4,   1,OUDS,Oak Flat Lookout,Greenhorn RD,82,A05013,2,0,0,20,0,20,0,0,20,0,20
+513,RE4,   1,OUDS,Montecito-Sequoia Resort,Hume Lake RD,84,A05013,2,1597,3436,1513,649,7195,1597,3436,1513,649,7195
+513,RE4,   1,OUDS,Durrwood Creekside B & B,Tule River RD,87,A05013,2,30,230,15,10,285,30,230,15,10,285
+513,RE4,   1,OUDS,Stony Creek Resort,Hume Lake RD,88,A05013,2,435,953,48,0,1436,435,953,48,0,1436
+513,SUP4,   1,OUDS,Mountain Home Guard St. Rec Rental,Tule River RD,1118,A05013,2,12,47,0,0,59,12,47,0,0,59
+513,SUP4,   1,OUDS,Poso Station Rec Rental,Tule River RD,1123,A05013,2,35,27,25,6,93,35,27,25,6,93
+513,SUP4,   1,OUDS,Big Meadow Rental Cabin,Hume Lake RD,2750,A05013,2,17,62,6,0,85,17,62,6,0,85
+513,DUR4,   1,OUDS,Stony Creek CG,Hume Lake RD,11119,A05013,2,419,1611,0,0,2030,419,1611,0,0,2030
+513,DUR4,   1,OUDS,Landslide CG,Hume Lake RD,11120,A05013,2,152,309,0,0,461,152,309,0,0,461
+513,DUR4,   1,OUDS,Hume Lake CG,Hume Lake RD,11121,A05013,2,1556,4237,0,0,5793,1556,4237,0,0,5793
+513,DUR4,   1,OUDS,Eshom CG,Hume Lake RD,11122,A05013,2,270,548,17,0,835,270,548,17,0,835
+513,DUR4,   1,OUDS,Tenmile CG,Hume Lake RD,11127,A05013,2,243,414,0,0,657,243,414,0,0,657
+513,DUR5,   1,OUDS,Logger Flat Group CG,Hume Lake RD,11128,A05013,2,37,70,0,0,107,37,70,0,0,107
+513,DUR5,   1,OUDS,Aspen Hollow Group CG,Hume Lake RD,11129,A05013,2,14,61,0,0,75,14,61,0,0,75
+513,DUR4,   1,OUDS,Upper Stony Creek CG,Hume Lake RD,11130,A05013,2,126,1102,0,0,1228,126,1102,0,0,1228
+513,DUR4,   1,OUDS,Quaking Aspen Family CG,Tule River RD,11161,A05013,2,312,524,6,0,842,312,524,6,0,842
+513,DUR4,   1,OUDS,Belknap CG,Tule River RD,11162,A05013,2,284,629,18,0,931,284,629,18,0,931
+513,DUR4,   1,OUDS,Wishon CG,Tule River RD,11163,A05013,2,513,560,37,27,1137,513,560,37,27,1137
+513,DUR5,   1,OUDS,Long Meadow Group CG,Tule River RD,11193,A05013,2,9,29,0,0,38,9,29,0,0,38
+513,DUR4,   1,OUDS,Redwood Meadow CG,Tule River RD,11194,A05013,2,235,454,0,0,689,235,454,0,0,689
+513,DUR4,   1,OUDS,Hobo CG,Greenhorn RD,11225,A05013,2,572,598,237,207,1614,572,598,237,207,1614
+513,DUR4,   1,OUDS,Headquarters CG,Cannell Meadow RD,11265,A05013,2,1188,1733,414,306,3641,1188,1733,414,306,3641
+513,DUR4,   1,OUDS,Camp 3,Cannell Meadow RD,11266,A05013,2,590,1458,0,0,2048,590,1458,0,0,2048
+513,DUR4,   1,OUDS,Hospital Flat CG,Cannell Meadow RD,11268,A05013,2,378,1259,0,0,1637,378,1259,0,0,1637
+513,DUR4,   1,OUDS,Goldledge CG,Cannell Meadow RD,11270,A05013,2,38,714,0,0,752,38,714,0,0,752
+513,DUR4,   1,OUDS,Fairview CG,Cannell Meadow RD,11271,A05013,2,1055,1892,222,0,3169,1055,1892,222,0,3169
+513,DUR4,   1,OUDS,Limestone CG,Cannell Meadow RD,11272,A05013,2,409,766,85,0,1260,409,766,85,0,1260
+513,DUR4,   1,OUDS,Coy Flat CG,Tule River RD,22322,A05013,2,38,258,2,0,298,38,258,2,0,298
+513,DUR4,   1,OUDS,Princess CG,Hume Lake RD,27117,A05013,2,693,1904,0,0,2597,693,1904,0,0,2597
+513,DUR5,   1,OUDS,Fir Group CG,Hume Lake RD,30482,A05013,2,5,31,0,0,36,5,31,0,0,36
+513,DUR5,   1,OUDS,Cove Group CG,Hume Lake RD,30483,A05013,2,5,50,0,0,55,5,50,0,0,55
+513,DUR5,   1,OUDS,Quaking Aspen Group CG,Tule River RD,33763,A05013,2,42,110,0,0,152,42,110,0,0,152
+513,DUR4,   1,OUDS,Sandy Flat CG,Greenhorn RD,65050,A05013,2,499,626,0,0,1125,499,626,0,0,1125
+513,DUR4,   1,OUDS,Paradise Cove CG,Greenhorn RD,65401,A05013,2,958,1536,102,207,2803,958,1536,102,207,2803
+513,DUR4,   1,OUDS,Main Dam CG,Greenhorn RD,65404,A05013,2,24,218,0,0,242,24,218,0,0,242
+513,DUR4,   1,OUDS,Pioneer Point CG,Greenhorn RD,65405,A05013,2,1277,1709,49,52,3087,1277,1709,49,52,3087
+513,DUR4,   1,OUDS,Boulder Gulch CG,Greenhorn RD,65406,A05013,2,171,308,0,0,479,171,308,0,0,479
+513,DUR4,   1,OUDS,Hungry Gulch CG,Greenhorn RD,65407,A05013,2,437,928,0,0,1365,437,928,0,0,1365
+513,DUR4,   1,OUDS,Live Oak North CG,Greenhorn RD,65408,A05013,2,0,34,0,0,34,0,34,0,0,34
+513,DUR4,   1,OUDS,Live Oak South CG,Greenhorn RD,65409,A05013,2,127,267,0,0,394,127,267,0,0,394
+513,DUR5,   1,OUDS,Live Oak Group CG,Greenhorn RD,65410,A05013,2,17,19,0,0,36,17,19,0,0,36
+513,DUR4,   1,OUDS,Tillie Creek CG,Greenhorn RD,65411,A05013,2,1713,2549,37,158,4457,1713,2549,37,158,4457
+513,DUR5,   1,OUDS,Tillie Creek 1-4 Group CG,Greenhorn RD,65413,A05013,2,57,89,0,0,146,57,89,0,0,146
+513,DUR5,   1,OUDS,French Gulch Group CG,Greenhorn RD,65416,A05013,2,21,33,0,0,54,21,33,0,0,54
+513,DUR5,   1,OUDS,Camp 3 Group CG,Cannell Meadow RD,112661,A05013,2,11,25,0,0,36,11,25,0,0,36
+513,SUP4,   1,OUDS,Frog Meadow Station Rec Rental,Tule River RD,240848,A05013,2,4,39,0,0,43,4,39,0,0,43
+513,SUP4,   1,OUDS,Quaking Aspen Cabin Rec Rental,Tule River RD,240849,A05013,2,14,56,0,0,70,14,56,0,0,70
+513,DUR4,1,OUDS,Sandy Flat CG,Kern River Ranger District,65050,A05013,3,694,897,64,115,1770,694,897,64,115,1770
+513,RE2,1,OUDS,Mountain Home Guard Station,Western Divide Ranger District,1118,A05013,3,0,29,6,0,35,0,29,6,0,35
+513,DUR5,1,OUDS,Long Meadow Group CG,Western Divide Ranger District,11193,A05013,3,1,23,0,0,24,1,23,0,0,24
+513,DUR4,1,OUDS,Redwood Meadow CG,Western Divide Ranger District,11194,A05013,3,87,257,1,0,345,87,257,1,0,345
+513,DUR5,1,OUDS,Holey Meadow Group CG,Western Divide Ranger District,11195,A05013,3,39,9,0,0,48,39,9,0,0,48
+513,DUR4,1,OUDS,Hobo CG,Kern River Ranger District,11225,A05013,3,698,1042,0,0,1740,698,1042,0,0,1740
+513,FR3,1,DUDS,Live Oak Picnic,Kern River Ranger District,11229,A05013,3,46,150,0,0,196,46,150,0,0,196
+513,RE2,1,OUDS,Poso Guard Station,Western Divide Ranger District,1123,A05013,3,10,23,8,0,41,10,23,8,0,41
+513,FR3,1,DUDS,Lower Richbar Picnic,Kern River Ranger District,11230,A05013,3,114,226,0,0,340,114,226,0,0,340
+513,FR3,1,DUDS,Upper Richbar Family Picnic,Kern River Ranger District,11231,A05013,3,129,461,0,0,590,129,461,0,0,590
+513,DUR5,1,OUDS,Fir Group CG,Hume Lake Ranger District,30482,A05013,3,8,33,0,0,41,8,33,0,0,41
+513,DUR5,1,OUDS,Cove Group CG,Hume Lake Ranger District,30483,A05013,3,12,33,0,0,45,12,33,0,0,45
+513,DUR5,1,OUDS,Quaking Aspen Group CG,Western Divide Ranger District,33763,A05013,3,3,53,6,0,62,3,53,6,0,62
+513,ST1,1,DUDS,Alta Sierra Ski Resort,Kern River Ranger District,11246,A05013,3,0,0,2945,7400,10345,0,0,2945,7400,10345
+513,DUR4,1,OUDS,Headquarters CG,Kern River Ranger District,11265,A05013,3,1228,1761,282,237,3508,1228,1761,282,237,3508
+513,DUR4,1,OUDS,Camp 3,Kern River Ranger District,11266,A05013,3,653,1733,0,0,2386,653,1733,0,0,2386
+513,DUR5,1,OUDS,Camp 3 Group CG,Kern River Ranger District,112661,A05013,3,23,31,0,0,54,23,31,0,0,54
+513,DUR4,1,OUDS,Hospital Flat CG,Kern River Ranger District,11268,A05013,3,472,1347,78,0,1897,472,1347,78,0,1897
+513,DUR4,1,OUDS,Goldledge CG,Kern River Ranger District,11270,A05013,3,409,1179,0,0,1588,409,1179,0,0,1588
+513,DUR4,1,OUDS,Pioneer Point CG,Kern River Ranger District,65405,A05013,3,462,1337,0,0,1799,462,1337,0,0,1799
+513,DUR4,1,OUDS,Boulder Gulch CG,Kern River Ranger District,65406,A05013,3,900,1372,0,0,2272,900,1372,0,0,2272
+513,DUR4,1,OUDS,Hungry Gulch CG,Kern River Ranger District,65407,A05013,3,498,728,0,0,1226,498,728,0,0,1226
+513,DUR4,1,OUDS,Live Oak North CG,Kern River Ranger District,65408,A05013,3,54,200,0,0,254,54,200,0,0,254
+513,DUR4,1,OUDS,Live Oak South CG,Kern River Ranger District,65409,A05013,3,184,385,0,0,569,184,385,0,0,569
+513,DUR5,1,OUDS,Live Oak Group CG,Kern River Ranger District,65410,A05013,3,1,24,0,0,25,1,24,0,0,25
+513,DUR4,1,OUDS,Tillie Creek CG,Kern River Ranger District,65411,A05013,3,1962,2807,138,45,4952,1962,2807,138,45,4952
+513,DUR5,1,OUDS,Tillie Creek 1-4 Group CG,Kern River Ranger District,65413,A05013,3,38,88,0,0,126,38,88,0,0,126
+513,DUR5,1,OUDS,French Gulch Group CG,Kern River Ranger District,65416,A05013,3,15,35,0,0,50,15,35,0,0,50
+513,RE2,1,OUDS,Camp 4 1/2 Cabin,Hume Lake Ranger District,75,A05013,3,64,66,32,39,201,64,66,32,39,201
+513,DUR4,1,OUDS,Coy Flat CG,Western Divide Ranger District,22322,A05013,3,183,386,15,0,584,183,386,15,0,584
+513,RE2,1,OUDS,Frog Meadow Guard Station,Western Divide Ranger District,240848,A05013,3,0,20,0,0,20,0,20,0,0,20
+513,RE2,1,OUDS,Quaking Aspen Cabin,Western Divide Ranger District,240849,A05013,3,13,17,8,0,38,13,17,8,0,38
+513,RE2,1,OUDS,Oak Flat Lookout,Kern River Ranger District,82,A05013,3,61,67,0,0,128,61,67,0,0,128
+513,RE4,1,OUDS,Montecito-Sequoia Resort,Hume Lake Ranger District,84,A05013,3,2144,4133,1580,1846,9703,2144,4133,1580,1846,9703
+513,DUR5,1,OUDS,Hobo Overflow,Kern River Ranger District,85,A05013,3,37,0,0,0,37,37,0,0,0,37
+513,RE4,1,OUDS,Durrwood Creekside B & B,Western Divide Ranger District,87,A05013,3,14,22,0,7,43,14,22,0,7,43
+513,RE4,1,OUDS,Stony Creek Resort,Hume Lake Ranger District,88,A05013,3,304,665,37,0,1006,304,665,37,0,1006
+513,DUR4,1,OUDS,Stony Creek CG,Hume Lake Ranger District,11119,A05013,3,384,3013,0,0,3397,384,3013,0,0,3397
+513,DUR4,1,OUDS,Landslide CG,Hume Lake Ranger District,11120,A05013,3,154,372,0,0,526,154,372,0,0,526
+513,DUR4,1,OUDS,Hume Lake CG,Hume Lake Ranger District,11121,A05013,3,1941,4626,0,0,6567,1941,4626,0,0,6567
+513,DUR4,1,OUDS,Eshom CG,Hume Lake Ranger District,11122,A05013,3,141,369,0,0,510,141,369,0,0,510
+513,DUR4,1,OUDS,Tenmile CG,Hume Lake Ranger District,11127,A05013,3,190,464,0,0,654,190,464,0,0,654
+513,DUR5,1,OUDS,Logger Flat Group CG,Hume Lake Ranger District,11128,A05013,3,35,70,0,0,105,35,70,0,0,105
+513,DUR5,1,OUDS,Aspen Hollow Group CG,Hume Lake Ranger District,11129,A05013,3,21,60,0,0,81,21,60,0,0,81
+513,DUR4,1,OUDS,Upper Stony Creek CG,Hume Lake Ranger District,11130,A05013,3,218,1241,0,0,1459,218,1241,0,0,1459
+513,FR1,1,DUDS,Boyden Cavern,Hume Lake Ranger District,11141,A05013,3,5236,12388,573,0,18197,5236,12388,573,0,18197
+513,DUR4,1,OUDS,Quaking Aspen Family CG,Western Divide Ranger District,11161,A05013,3,0,118,38,0,156,0,118,38,0,156
+513,DUR4,1,OUDS,Belknap CG,Western Divide Ranger District,11162,A05013,3,187,588,85,0,860,187,588,85,0,860
+513,DUR4,1,OUDS,Wishon CG,Western Divide Ranger District,11163,A05013,3,765,971,85,0,1821,765,971,85,0,1821
+513,DUR4,1,OUDS,Fairview CG,Kern River Ranger District,11271,A05013,3,1191,1916,254,0,3361,1191,1916,254,0,3361
+513,DUR4,1,OUDS,Limestone CG,Kern River Ranger District,11272,A05013,3,219,484,38,0,741,219,484,38,0,741
+513,FR3,1,DUDS,Miracle Hot Springs Picnic,Kern River Ranger District,65076,A05013,3,76,57,0,0,133,76,57,0,0,133
+513,DUR4,1,OUDS,Paradise Cove CG,Kern River Ranger District,65401,A05013,3,1381,1970,224,227,3802,1381,1970,224,227,3802
+513,DUR4,1,OUDS,Princess CG,Hume Lake Ranger District,27117,A05013,3,0,3369,0,0,3369,0,3369,0,0,3369
+513,RE2,1,OUDS,Big Meadows Cabin,Hume Lake Ranger District,2750,A05013,3,0,79,20,0,99,0,79,20,0,99
+513,RE2,1,OUDS,Wishon Cabin,Western Divide Ranger District,540802,A05013,3,15,36,10,0,61,15,36,10,0,61
+513,DUR4,1,OUDS,Sandy Flat CG,Kern River Ranger District,65050,A05013,4,429,893,113,0,1435,429,893,113,0,1435
+513,RE2,1,OUDS,Mountain Home Guard Station,Western Divide Ranger District,1118,A05013,4,0,0,0,0,0,0,0,0,0,0
+513,DUR5,1,OUDS,Long Meadow Group CG,Western Divide Ranger District,11193,A05013,4,6,5,0,0,11,6,5,0,0,11
+513,DUR4,1,OUDS,Redwood Meadow CG,Western Divide Ranger District,11194,A05013,4,231,433,0,0,664,231,433,0,0,664
+513,DUR4,1,OUDS,Holey Meadow Group CG,Western Divide Ranger District,11195,A05013,4,104,184,0,0,288,104,184,0,0,288
+513,DUR4,1,OUDS,Hobo CG,Kern River Ranger District,11225,A05013,4,755,1072,0,39,1866,755,1072,0,39,1866
+513,FR3,1,DUDS,Live Oak Picnic,Kern River Ranger District,11229,A05013,4,18,58,0,0,76,18,58,0,0,76
+513,RE2,1,OUDS,Poso Guard Station,Western Divide Ranger District,1123,A05013,4,8,2,0,0,10,8,2,0,0,10
+513,FR3,1,DUDS,Lower Richbar Picnic,Kern River Ranger District,11230,A05013,4,40,118,0,0,158,40,118,0,0,158
+513,FR3,1,DUDS,Upper Richbar Family Picnic,Kern River Ranger District,11231,A05013,4,116,350,85,35,586,116,350,85,35,586
+513,DUR5,1,OUDS,Fir Group CG,Hume Lake Ranger District,30482,A05013,4,8,30,0,0,38,8,30,0,0,38
+513,DUR5,1,OUDS,Cove Group CG,Hume Lake Ranger District,30483,A05013,4,25,42,0,0,67,25,42,0,0,67
+513,DUR5,1,OUDS,Quaking Aspen Group CG,Western Divide Ranger District,33763,A05013,4,47,158,0,0,205,47,158,0,0,205
+513,DUR4,1,OUDS,Horse Camp CG,Hume Lake Ranger District,64001,A05013,4,0,0,0,0,0,0,0,0,0,0
+513,ST1,1,DUDS,Alta Sierra Ski Resort,Kern River Ranger District,11246,A05013,4,0,0,0,3078,3078,0,0,0,3078,3078
+513,DUR4,1,OUDS,Headquarters CG,Kern River Ranger District,11265,A05013,4,1660,1475,534,776,4445,1660,1475,534,776,4445
+513,DUR4,1,OUDS,Camp 3,Kern River Ranger District,11266,A05013,4,857,1026,0,0,1883,857,1026,0,0,1883
+513,DUR5,1,OUDS,Camp 3 Group CG,Kern River Ranger District,112661,A05013,4,25,200,0,0,225,25,200,0,0,225
+513,DUR4,1,OUDS,Hospital Flat CG,Kern River Ranger District,11268,A05013,4,552,871,0,0,1423,552,871,0,0,1423
+513,DUR4,1,OUDS,Goldledge CG,Kern River Ranger District,11270,A05013,4,483,1002,0,0,1485,483,1002,0,0,1485
+513,DUR4,1,OUDS,Big Meadow CG,Hume Lake Ranger District,11117,A05013,4,272,1321,0,0,1593,272,1321,0,0,1593
+513,DUR4,1,OUDS,Pioneer Point CG,Kern River Ranger District,65405,A05013,4,334,327,185,353,1199,334,327,185,353,1199
+513,DUR4,1,OUDS,Boulder Gulch CG,Kern River Ranger District,65406,A05013,4,263,306,0,41,610,263,306,0,41,610
+513,DUR4,1,OUDS,Hungry Gulch CG,Kern River Ranger District,65407,A05013,4,212,377,0,0,589,212,377,0,0,589
+513,DUR4,1,OUDS,Tillie Creek CG,Kern River Ranger District,65411,A05013,4,378,639,22,0,1039,378,639,22,0,1039
+513,DUR5,1,OUDS,Tillie Creek 1-4 Group CG,Kern River Ranger District,65413,A05013,4,19,42,1,0,62,19,42,1,0,62
+513,DUR5,1,OUDS,French Gulch Group CG,Kern River Ranger District,65416,A05013,4,16,19,0,0,35,16,19,0,0,35
+513,RE2,1,OUDS,Camp 4 1/2 Cabin,Hume Lake Ranger District,75,A05013,4,0,0,0,0,172,0,0,0,0,172
+513,DUR4,1,OUDS,Coy Flat CG,Western Divide Ranger District,22322,A05013,4,106,229,6,0,341,106,229,6,0,341
+513,RE2,1,OUDS,Frog Meadow Guard Station,Western Divide Ranger District,240848,A05013,4,0,0,0,0,0,0,0,0,0,0
+513,RE2,1,OUDS,Quaking Aspen Cabin,Western Divide Ranger District,240849,A05013,4,10,139,0,0,149,10,139,0,0,149
+513,RE2,1,OUDS,Oak Flat Lookout,Kern River Ranger District,82,A05013,4,0,0,0,0,210,0,0,0,0,210
+513,RE4,1,OUDS,Montecito-Sequoia Resort,Hume Lake Ranger District,84,A05013,4,0,0,0,0,14556,0,0,0,0,14556
+513,DUR5,1,OUDS,Hobo Overflow,Kern River Ranger District,85,A05013,4,0,0,0,0,189,0,0,0,0,189
+513,RE4,1,OUDS,Durrwood Creekside B & B,Western Divide Ranger District,87,A05013,4,0,0,0,0,0,0,0,0,0,0
+513,RE4,1,OUDS,Stony Creek Resort,Hume Lake Ranger District,88,A05013,4,0,0,0,0,1746,0,0,0,0,1746
+513,DUR4,1,OUDS,Stony Creek CG,Hume Lake Ranger District,11119,A05013,4,1513,3099,0,0,4612,1513,3099,0,0,4612
+513,DUR4,1,OUDS,Landslide CG,Hume Lake Ranger District,11120,A05013,4,124,207,0,0,331,124,207,0,0,331
+513,DUR4,1,OUDS,Hume Lake CG,Hume Lake Ranger District,11121,A05013,4,2012,3910,0,0,5922,2012,3910,0,0,5922
+513,DUR4,1,OUDS,Eshom CG,Hume Lake Ranger District,11122,A05013,4,378,584,0,0,962,378,584,0,0,962
+513,DUR4,1,OUDS,Tenmile CG,Hume Lake Ranger District,11127,A05013,4,192,266,0,0,458,192,266,0,0,458
+513,DUR5,1,OUDS,Logger Flat Group CG,Hume Lake Ranger District,11128,A05013,4,31,30,0,0,61,31,30,0,0,61
+513,DUR5,1,OUDS,Aspen Hollow Group CG,Hume Lake Ranger District,11129,A05013,4,19,38,0,0,57,19,38,0,0,57
+513,DUR4,1,OUDS,Upper Stony Creek CG,Hume Lake Ranger District,11130,A05013,4,703,1461,0,0,2164,703,1461,0,0,2164
+513,FR1,1,DUDS,Boyden Cavern,Hume Lake Ranger District,11141,A05013,4,0,0,0,0,0,0,0,0,0,0
+513,DUR4,1,OUDS,Quaking Aspen Family CG,Western Divide Ranger District,11161,A05013,4,295,541,0,0,836,295,541,0,0,836
+513,DUR4,1,OUDS,Belknap CG,Western Divide Ranger District,11162,A05013,4,175,492,0,0,667,175,492,0,0,667
+513,DUR4,1,OUDS,Wishon CG,Western Divide Ranger District,11163,A05013,4,597,653,0,0,1250,597,653,0,0,1250
+513,DUR4,1,OUDS,Fairview CG,Kern River Ranger District,11271,A05013,4,1194,1374,326,15,2909,1194,1374,326,15,2909
+513,DUR4,1,OUDS,Limestone CG,Kern River Ranger District,11272,A05013,4,562,739,98,12,1411,562,739,98,12,1411
+513,DUR4,1,OUDS,Paradise Cove CG,Kern River Ranger District,65401,A05013,4,374,430,23,7,834,374,430,23,7,834
+513,DUR4,1,OUDS,Princess CG,Hume Lake Ranger District,27117,A05013,4,1260,1894,0,0,3154,1260,1894,0,0,3154
+513,RE2,1,OUDS,Big Meadows Cabin,Hume Lake Ranger District,2750,A05013,4,0,0,0,0,96,0,0,0,0,96
+513,RE2,1,OUDS,Wishon Cabin,Western Divide Ranger District,540802,A05013,4,10,12,12,6,40,10,12,12,6,40
+513,DUR5,1,OUDS,Halfway Group CG,Kern River Ranger District,540807,A05013,4,0,0,0,0,328,0,0,0,0,328
+513,DUR5,1,OUDS,Thunderbird Group CG,Kern River Ranger District,540808,A05013,4,0,0,0,0,96,0,0,0,0,96
+513,RE2,1,OUDS,Grouse Rental Cabin-Hillside Cabin,Western Divide Ranger District,540832,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,DUR5,1,OUDS,Logger Flat Group CG,Hume Lake Ranger District,11128,A05013,5,0,0,0,0,24,0,0,0,0,24
+513,DUR5,1,OUDS,Aspen Hollow Group CG,Hume Lake Ranger District,11129,A05013,5,0,0,0,0,25,0,0,0,0,25
+513,DUR4,1,OUDS,Upper Stony Creek CG,Hume Lake Ranger District,11130,A05013,5,610,545,0,0,1155,610,545,0,0,1155
+513,FR1,1,DUDS,Boyden Cavern,Hume Lake Ranger District,11141,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,DUR4,1,OUDS,Quaking Aspen Family CG,Western Divide Ranger District,11161,A05013,5,201,250,0,0,451,201,250,0,0,451
+513,DUR4,1,OUDS,Belknap CG,Western Divide Ranger District,11162,A05013,5,450,301,0,0,751,450,301,0,0,751
+513,DUR4,1,OUDS,Wishon CG,Western Divide Ranger District,11163,A05013,5,495,325,0,0,820,495,325,0,0,820
+513,DUR4,1,OUDS,Fairview CG,Kern River Ranger District,11271,A05013,5,0,0,0,0,1850,0,0,0,0,1850
+513,DUR4,1,OUDS,Limestone CG,Kern River Ranger District,11272,A05013,5,0,0,0,0,1124,0,0,0,0,1124
+513,DUR4,1,OUDS,Paradise Cove CG,Kern River Ranger District,65401,A05013,5,0,0,0,0,741,0,0,0,0,741
+513,DUR4,1,OUDS,Princess CG,Hume Lake Ranger District,27117,A05013,5,1041,1012,0,0,2053,1041,1012,0,0,2053
+513,RE2,1,OUDS,Big Meadows Cabin,Hume Lake Ranger District,2750,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,PTC3,1,VIEWCORR,Hwy 245 @ Hogback Road,Hume Lake Ranger District,98,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,PTC3,1,VIEWCORR,Hwy 190 -Tule River Canyon,Western Divide Ranger District,540805,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,RE2,1,OUDS,Wishon Cabin,Western Divide Ranger District,540802,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,DUR4,1,OUDS,Sandy Flat CG,Kern River Ranger District,65050,A05013,5,0,0,0,0,785,0,0,0,0,785
+513,DUR5,1,OUDS,Long Meadow Group CG,Western Divide Ranger District,11193,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,DUR4,1,OUDS,Redwood Meadow CG,Western Divide Ranger District,11194,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,DUR4,1,OUDS,Holey Meadow Group CG,Western Divide Ranger District,11195,A05013,5,104,0,0,0,104,104,0,0,0,104
+513,DUR4,1,OUDS,Hobo CG,Kern River Ranger District,11225,A05013,5,620,450,0,9,1079,620,450,0,9,1079
+513,RE2,1,OUDS,Poso Guard Station,Western Divide Ranger District,1123,A05013,5,2,0,0,0,2,2,0,0,0,2
+513,DUR5,1,OUDS,Fir Group CG,Hume Lake Ranger District,30482,A05013,5,12,0,0,0,12,12,0,0,0,12
+513,DUR5,1,OUDS,Cove Group CG,Hume Lake Ranger District,30483,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,DUR4,1,OUDS,Horse Camp CG,Hume Lake Ranger District,64001,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,ST1,1,DUDS,Alta Sierra Ski Resort,Kern River Ranger District,11246,A05013,5,0,0,0,0,850,0,0,0,0,850
+513,DUR4,1,OUDS,Headquarters CG,Kern River Ranger District,11265,A05013,5,0,0,0,0,2950,0,0,0,0,2950
+513,DUR4,1,OUDS,Camp 3,Kern River Ranger District,11266,A05013,5,0,0,0,0,1203,0,0,0,0,1203
+513,DUR5,1,OUDS,Camp 3 Group CG,Kern River Ranger District,112661,A05013,5,0,0,0,0,145,0,0,0,0,145
+513,DUR4,1,OUDS,Hospital Flat CG,Kern River Ranger District,11268,A05013,5,0,0,0,0,1028,0,0,0,0,1028
+513,DUR4,1,OUDS,Goldledge CG,Kern River Ranger District,11270,A05013,5,0,0,0,0,950,0,0,0,0,950
+513,PTC3,1,VIEWCORR,Hwy 198 from Lost Grove NPS data,Hume Lake Ranger District,94,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,DUR4,1,OUDS,Big Meadow CG,Hume Lake Ranger District,11117,A05013,5,278,750,0,0,1028,278,750,0,0,1028
+513,FR3,1,GFA,Upper Coffee Camp Parking,Western Divide Ranger District,11164,A05013,5,0,0,0,0,570,0,0,0,0,570
+513,DUR4,1,OUDS,Hungry Gulch CG,Kern River Ranger District,65407,A05013,5,0,0,0,0,410,0,0,0,0,410
+513,DUR4,1,OUDS,Pioneer Point CG,Kern River Ranger District,65405,A05013,5,0,0,0,0,1025,0,0,0,0,1025
+513,DUR4,1,OUDS,Boulder Gulch CG,Kern River Ranger District,65406,A05013,5,0,0,0,0,540,0,0,0,0,540
+513,DUR4,1,OUDS,Tillie Creek CG,Kern River Ranger District,65411,A05013,5,0,0,0,0,781,0,0,0,0,781
+513,DUR5,1,OUDS,Tillie Creek 1-4 Group CG,Kern River Ranger District,65413,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,DUR5,1,OUDS,French Gulch Group CG,Kern River Ranger District,65416,A05013,5,10,0,0,0,10,10,0,0,0,10
+513,RE2,1,OUDS,Camp 4 1/2 Cabin,Hume Lake Ranger District,75,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,RE2,1,OUDS,Quaking Aspen Cabin,Western Divide Ranger District,240849,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,RE2,1,OUDS,Oak Flat Lookout,Kern River Ranger District,82,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,RE4,1,OUDS,Montecito-Sequoia Resort,Hume Lake Ranger District,84,A05013,5,0,0,0,0,1450,0,0,0,0,1450
+513,PTC3,1,VIEWCORR,Hwy 180 @ Cedar Grove Kings Canyon NP,Hume Lake Ranger District,90,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,DUR4,1,OUDS,Lower Stony Creek CG,Hume Lake Ranger District,11119,A05013,5,1600,1510,0,0,3110,1600,1510,0,0,3110
+513,DUR4,1,OUDS,Landslide CG,Hume Lake Ranger District,11120,A05013,5,126,101,0,0,227,126,101,0,0,227
+513,DUR4,1,OUDS,Hume Lake CG,Hume Lake Ranger District,11121,A05013,5,1850,2100,0,0,3950,1850,2100,0,0,3950
+513,DUR4,1,OUDS,Eshom CG,Hume Lake Ranger District,11122,A05013,5,278,200,0,0,478,278,200,0,0,478
+513,DUR4,1,OUDS,Tenmile CG,Hume Lake Ranger District,11127,A05013,5,140,100,0,0,240,140,100,0,0,240
+513,DUR5,1,OUDS,Halfway Group CG,Kern River Ranger District,540807,A05013,5,175,25,0,0,200,175,25,0,0,200
+513,DUR5,1,OUDS,Thunderbird Group CG,Kern River Ranger District,540808,A05013,5,0,0,0,0,45,0,0,0,0,45
+513,PTC3,1,VIEWCORR,"Hwy 178, Kern River Canyon",Kern River Ranger District,194,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,PTC3,1,VIEWCORR,Hwy 155 Alta Sierra,Kern River Ranger District,195,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,DUR5,1,OUDS,Camp 9 Group Campsites,Kern River Ranger District,540829,A05013,5,0,0,0,0,0,0,0,0,0,0
+513,RE2,1,OUDS,Grouse Rental Cabin-Lakeside Cabin,Western Divide Ranger District,540831,A05013,5,0,0,0,0,0,0,0,0,0,0
