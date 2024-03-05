@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "reproducibility-supplement.html#data-tidying",
+    "href": "reproducibility-supplement.html#data-tidying",
+    "title": "Reproducibility Supplement",
+    "section": "Data Tidying",
+    "text": "Data Tidying"
+  },
+  {
+    "objectID": "reproducibility-supplement.html#data-preprocessing",
+    "href": "reproducibility-supplement.html#data-preprocessing",
+    "title": "Reproducibility Supplement",
+    "section": "Data Preprocessing",
+    "text": "Data Preprocessing"
+  },
+  {
+    "objectID": "reproducibility-supplement.html#model-building",
+    "href": "reproducibility-supplement.html#model-building",
+    "title": "Reproducibility Supplement",
+    "section": "Model Building",
+    "text": "Model Building"
+  },
+  {
+    "objectID": "reproducibility-supplement.html#model-evaluation",
+    "href": "reproducibility-supplement.html#model-evaluation",
+    "title": "Reproducibility Supplement",
+    "section": "Model Evaluation",
+    "text": "Model Evaluation"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "\nLinking recreational visitation and  environmental conditions to predict the cost and welfare impacts of future environmental scenarios in the High Sierra\n",
@@ -47,40 +75,5 @@
     "title": "\nLinking recreational visitation and  environmental conditions to predict the cost and welfare impacts of future environmental scenarios in the High Sierra\n",
     "section": "Conclusion",
     "text": "Conclusion"
-  },
-  {
-    "objectID": "reproducibility-supplement.html",
-    "href": "reproducibility-supplement.html",
-    "title": "Reproducibility Supplement",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "reproducibility-supplement.html#data-tidying",
-    "href": "reproducibility-supplement.html#data-tidying",
-    "title": "Reproducibility Supplement",
-    "section": "Data Tidying",
-    "text": "Data Tidying"
-  },
-  {
-    "objectID": "reproducibility-supplement.html#data-preprocessing",
-    "href": "reproducibility-supplement.html#data-preprocessing",
-    "title": "Reproducibility Supplement",
-    "section": "Data Preprocessing",
-    "text": "Data Preprocessing"
-  },
-  {
-    "objectID": "reproducibility-supplement.html#model-building",
-    "href": "reproducibility-supplement.html#model-building",
-    "title": "Reproducibility Supplement",
-    "section": "Model Building",
-    "text": "Model Building"
-  },
-  {
-    "objectID": "reproducibility-supplement.html#model-evaluation",
-    "href": "reproducibility-supplement.html#model-evaluation",
-    "title": "Reproducibility Supplement",
-    "section": "Model Evaluation",
-    "text": "Model Evaluation"
   }
 ]
