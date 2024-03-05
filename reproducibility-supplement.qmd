@@ -60,6 +60,7 @@ set_col_names <- function(df, col_names_vec) {
 ```
 
 ```{r}
+#| code-summary: filter_years() Function 
 filter_years <- function(df, year_col_name) {
   df %>% 
     filter(between(!!sym(year_col_name), 2005, 2017))
