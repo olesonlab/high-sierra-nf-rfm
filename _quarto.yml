@@ -1,19 +1,27 @@
 project:
   type: website
+  output-dir: docs
+  preview: 
+    port: 5240
+    browser: true
+    
+execute:
+  freeze: auto
 
 website:
-  title: "."
+  title: |
+    "Linking recreational visitation and environmental conditions to predict the 
+    cost and welfare impacts of future environmental scenarios in the High Sierra <br>"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+  back-to-top-navigation: true
+    
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - lumen
+      - styles.scss
     toc: true
-
-
-
+    fontsize: 15pt
+    page-layout: full
