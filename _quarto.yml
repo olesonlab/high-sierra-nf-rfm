@@ -11,13 +11,13 @@ execute:
   message: false
 
 website:
-  title: "High Sierra National Forests RFM and TCM"
+  title: "High Sierra National Forests RFM"
   navbar:
     left:
       - href: index.qmd
-        text: Report
-      - href: reproducibility-supplement.qmd
         text: Reproducibility Supplement
+      # - href: report.qmd
+      #   text: Report
   back-to-top-navigation: true
     
 format:
