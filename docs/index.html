@@ -241,6 +241,20 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     
   </div>
   
+<div>
+  <div class="abstract">
+    <div class="block-title">Abstract</div>
+    <ol type="1">
+    <li>The interplay of environmental and biophysical factors and site-specific attributes determine the suitability of forest areas for nature-based recreation and influence recreational decision-making processes. Understanding the drivers of recreational use and patterns, and how economic values and visitation rates vary across different recreation sites is crucial for effective land management and conservation efforts. This insight is also helpful to forest managers to tailor programs to align with visitor preferences, and effectively allocate scarce budgetary resources.</li>
+    <li>We use seasonal recreational visits in Inyo, Sierra, Sequoia, and Stanislaus National Forests from 2005-2017 and relate the number of seasonal visitations to climatic and environmental data collected through satellite imagery and nearby weather stations. We modeled the relationship between seasonal visitation and site-specific historical environmental predictors using random forest.</li>
+    <li>To estimate the economic value of nature-based recreation and evaluate how economic value varies across these four national forests, we utilize a large survey-based dataset and divided state main activities in five broad categories. A truncated negative binomial regression accounting for endogenous stratification was used to analyze the relationship between the number of trips to the forests, travel cost, activity categories, and socio-demographic variables.</li>
+    <li>Visitation across the national forests was best predicted by the availability of ski recreational areas and density of trails highlighting the importance of site attributes to recreation demand and use. Seasonal temperatures (maximum and minimum), wind speed, and snow water also influenced recreational use, providing insights into the direct influence of climate on outdoor recreation in these national forests.</li>
+    <li>Our results suggest a mean consumer surplus (CS) of USD 65 per visit per person to national forests in the Sierra Nevada. Aggregated over annual per person visits, the total CS is approximately USD 313.3 million per year. Our findings reveal variations in CS across activity groups, with winter activities (e.g., skiing, snowboarding) and active activities (e.g., hiking, fishing) attracting the highest number of visits. These groups have the highest total CS of national forests in Sierra Nevada.</li>
+    <li>Model results indicate that seasonal recreation is sensitive to site-specific observed environmental conditions, with implications for predicting changes in seasonal visitation due to future climate change effects. For example, we can enhance the model to forecast future shifts in recreational demand by incorporating downscaled climate projections, such as LOCA VIC data for snow water, temperature, wind speed, and precipitation in California. Furthermore, the model can be expanded to encompass additional National Forests in California and in other states. It is also adaptable for integrating hydrological and fire predictive models from the INFEWS project’s Envision model, a geospatial framework designed to facilitate the analysis of coupled human-natural systems over various temporal and spatial scales.</li>
+    <li>Our research provides a foundation for predictive modeling of nature-based recreation patterns, empowering managers and stakeholders to identify and direct resources to priority areas, develop effective adaptation and management strategies, and leverage this information for improved education and decision-making.</li>
+    </ol>
+  </div>
+</div>
 
 
 </header>
@@ -477,86 +491,86 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="cell-output cell-output-stdout">
 <pre><code>─ Session info ───────────────────────────────────────────────────────────────
  setting  value
- version  R version 4.2.3 (2023-03-15 ucrt)
- os       Windows 10 x64 (build 22621)
+ version  R version 4.3.3 (2024-02-29 ucrt)
+ os       Windows 11 x64 (build 22621)
  system   x86_64, mingw32
  ui       RTerm
  language (EN)
  collate  English_United States.utf8
  ctype    English_United States.utf8
  tz       Pacific/Honolulu
- date     2024-03-06
+ date     2024-03-29
  pandoc   3.1.1 @ C:/Program Files/RStudio/resources/app/bin/quarto/bin/tools/ (via rmarkdown)
 
 ─ Packages ───────────────────────────────────────────────────────────────────
  ! package     * version date (UTC) lib source
- P cachem        1.0.8   2023-05-01 [?] RSPM (R 4.2.0)
- P cli           3.6.2   2023-12-11 [?] CRAN (R 4.2.3)
- P colorspace    2.1-0   2023-01-23 [?] RSPM (R 4.2.0)
- P devtools      2.4.5   2022-10-11 [?] CRAN (R 4.2.3)
- P digest        0.6.34  2024-01-11 [?] CRAN (R 4.2.3)
- P dplyr       * 1.1.4   2023-11-17 [?] RSPM (R 4.2.0)
- P ellipsis      0.3.2   2021-04-29 [?] RSPM (R 4.2.0)
- P evaluate      0.23    2023-11-01 [?] RSPM (R 4.2.0)
- P fansi         1.0.6   2023-12-08 [?] CRAN (R 4.2.3)
- P fastmap       1.1.1   2023-02-24 [?] RSPM (R 4.2.0)
- P forcats     * 1.0.0   2023-01-29 [?] RSPM (R 4.2.0)
- P fs          * 1.6.3   2023-07-20 [?] RSPM (R 4.2.0)
- P generics      0.1.3   2022-07-05 [?] RSPM (R 4.2.0)
- P ggplot2     * 3.5.0   2024-02-23 [?] CRAN (R 4.2.3)
- P glue          1.7.0   2024-01-09 [?] CRAN (R 4.2.3)
- P gtable        0.3.4   2023-08-21 [?] RSPM (R 4.2.0)
- P hms           1.1.3   2023-03-21 [?] RSPM (R 4.2.0)
- P htmltools     0.5.7   2023-11-03 [?] RSPM (R 4.2.0)
- P htmlwidgets   1.6.4   2023-12-06 [?] CRAN (R 4.2.3)
- P httpuv        1.6.14  2024-01-26 [?] CRAN (R 4.2.3)
- P jsonlite      1.8.8   2023-12-04 [?] RSPM (R 4.2.0)
- P knitr         1.45    2023-10-30 [?] RSPM (R 4.2.0)
- P later         1.3.2   2023-12-06 [?] CRAN (R 4.2.3)
- P lifecycle     1.0.4   2023-11-07 [?] RSPM (R 4.2.0)
- P lubridate   * 1.9.3   2023-09-27 [?] RSPM (R 4.2.0)
- P magrittr      2.0.3   2022-03-30 [?] RSPM (R 4.2.0)
- P memoise       2.0.1   2021-11-26 [?] RSPM (R 4.2.0)
- P mime          0.12    2021-09-28 [?] RSPM (R 4.2.0)
- P miniUI        0.1.1.1 2018-05-18 [?] CRAN (R 4.2.3)
- P munsell       0.5.0   2018-06-12 [?] RSPM (R 4.2.0)
- P pillar        1.9.0   2023-03-22 [?] CRAN (R 4.2.3)
- P pkgbuild      1.4.3   2023-12-10 [?] CRAN (R 4.2.3)
- P pkgconfig     2.0.3   2019-09-22 [?] CRAN (R 4.2.3)
- P pkgload       1.3.4   2024-01-16 [?] CRAN (R 4.2.3)
- P profvis       0.3.8   2023-05-02 [?] CRAN (R 4.2.3)
- P promises      1.2.1   2023-08-10 [?] CRAN (R 4.2.3)
- P purrr       * 1.0.2   2023-08-10 [?] RSPM (R 4.2.0)
- P R6            2.5.1   2021-08-19 [?] RSPM (R 4.2.0)
- P Rcpp          1.0.12  2024-01-09 [?] CRAN (R 4.2.3)
- P readr       * 2.1.5   2024-01-10 [?] CRAN (R 4.2.3)
- P remotes       2.4.2.1 2023-07-18 [?] CRAN (R 4.2.3)
-   renv          1.0.5   2024-02-29 [1] CRAN (R 4.2.3)
- P rlang         1.1.3   2024-01-10 [?] CRAN (R 4.2.3)
- P rmarkdown   * 2.25    2023-09-18 [?] RSPM (R 4.2.0)
- P rstudioapi    0.15.0  2023-07-07 [?] RSPM (R 4.2.0)
- P scales        1.3.0   2023-11-28 [?] RSPM (R 4.2.0)
- P sessioninfo   1.2.2   2021-12-06 [?] CRAN (R 4.2.3)
- P shiny         1.8.0   2023-11-17 [?] CRAN (R 4.2.3)
- P stringi       1.8.3   2023-12-11 [?] CRAN (R 4.2.3)
- P stringr     * 1.5.1   2023-11-14 [?] RSPM (R 4.2.0)
- P tibble      * 3.2.1   2023-03-20 [?] CRAN (R 4.2.3)
- P tidyr       * 1.3.1   2024-01-24 [?] CRAN (R 4.2.3)
- P tidyselect    1.2.0   2022-10-10 [?] CRAN (R 4.2.3)
- P tidyverse   * 2.0.0   2023-02-22 [?] RSPM (R 4.2.0)
- P timechange    0.3.0   2024-01-18 [?] CRAN (R 4.2.3)
- P tzdb          0.4.0   2023-05-12 [?] RSPM (R 4.2.0)
- P urlchecker    1.0.1   2021-11-30 [?] CRAN (R 4.2.3)
- P usethis       2.2.3   2024-02-19 [?] CRAN (R 4.2.3)
- P utf8          1.2.4   2023-10-22 [?] CRAN (R 4.2.3)
- P vctrs         0.6.5   2023-12-01 [?] RSPM (R 4.2.0)
- P withr         3.0.0   2024-01-16 [?] CRAN (R 4.2.3)
- P xfun          0.42    2024-02-08 [?] CRAN (R 4.2.3)
- P xtable        1.8-4   2019-04-21 [?] CRAN (R 4.2.3)
- P yaml          2.3.8   2023-12-11 [?] CRAN (R 4.2.3)
+ P cachem        1.0.8   2023-05-01 [?] CRAN (R 4.3.3)
+ P cli           3.6.2   2023-12-11 [?] CRAN (R 4.3.3)
+ P colorspace    2.1-0   2023-01-23 [?] CRAN (R 4.3.3)
+ P devtools      2.4.5   2022-10-11 [?] CRAN (R 4.3.3)
+ P digest        0.6.35  2024-03-11 [?] CRAN (R 4.3.3)
+ P dplyr       * 1.1.4   2023-11-17 [?] CRAN (R 4.3.3)
+ P ellipsis      0.3.2   2021-04-29 [?] CRAN (R 4.3.3)
+ P evaluate      0.23    2023-11-01 [?] CRAN (R 4.3.3)
+ P fansi         1.0.6   2023-12-08 [?] CRAN (R 4.3.3)
+ P fastmap       1.1.1   2023-02-24 [?] CRAN (R 4.3.3)
+ P forcats     * 1.0.0   2023-01-29 [?] CRAN (R 4.3.3)
+ P fs          * 1.6.3   2023-07-20 [?] CRAN (R 4.3.3)
+ P generics      0.1.3   2022-07-05 [?] CRAN (R 4.3.3)
+ P ggplot2     * 3.5.0   2024-02-23 [?] CRAN (R 4.3.3)
+ P glue          1.7.0   2024-01-09 [?] CRAN (R 4.3.3)
+ P gtable        0.3.4   2023-08-21 [?] CRAN (R 4.3.3)
+ P hms           1.1.3   2023-03-21 [?] CRAN (R 4.3.3)
+ P htmltools     0.5.8   2024-03-25 [?] CRAN (R 4.3.3)
+ P htmlwidgets   1.6.4   2023-12-06 [?] CRAN (R 4.3.3)
+ P httpuv        1.6.14  2024-01-26 [?] CRAN (R 4.3.3)
+ P jsonlite      1.8.8   2023-12-04 [?] CRAN (R 4.3.3)
+ P knitr         1.45    2023-10-30 [?] CRAN (R 4.3.3)
+ P later         1.3.2   2023-12-06 [?] CRAN (R 4.3.3)
+ P lifecycle     1.0.4   2023-11-07 [?] CRAN (R 4.3.3)
+ P lubridate   * 1.9.3   2023-09-27 [?] CRAN (R 4.3.3)
+ P magrittr      2.0.3   2022-03-30 [?] CRAN (R 4.3.3)
+ P memoise       2.0.1   2021-11-26 [?] CRAN (R 4.3.3)
+ P mime          0.12    2021-09-28 [?] CRAN (R 4.3.1)
+ P miniUI        0.1.1.1 2018-05-18 [?] CRAN (R 4.3.3)
+ P munsell       0.5.0   2018-06-12 [?] CRAN (R 4.3.3)
+ P pillar        1.9.0   2023-03-22 [?] CRAN (R 4.3.3)
+ P pkgbuild      1.4.4   2024-03-17 [?] CRAN (R 4.3.3)
+ P pkgconfig     2.0.3   2019-09-22 [?] CRAN (R 4.3.3)
+ P pkgload       1.3.4   2024-01-16 [?] CRAN (R 4.3.3)
+ P profvis       0.3.8   2023-05-02 [?] CRAN (R 4.3.3)
+ P promises      1.2.1   2023-08-10 [?] CRAN (R 4.3.3)
+ P purrr       * 1.0.2   2023-08-10 [?] CRAN (R 4.3.3)
+ P R6            2.5.1   2021-08-19 [?] RSPM (R 4.3.0)
+ P Rcpp          1.0.12  2024-01-09 [?] CRAN (R 4.3.3)
+ P readr       * 2.1.5   2024-01-10 [?] CRAN (R 4.3.3)
+ P remotes       2.5.0   2024-03-17 [?] CRAN (R 4.3.3)
+   renv          1.0.5   2024-02-29 [1] CRAN (R 4.3.3)
+ P rlang         1.1.3   2024-01-10 [?] CRAN (R 4.3.3)
+ P rmarkdown   * 2.26    2024-03-05 [?] CRAN (R 4.3.3)
+ P rstudioapi    0.16.0  2024-03-24 [?] CRAN (R 4.3.3)
+ P scales        1.3.0   2023-11-28 [?] CRAN (R 4.3.3)
+ P sessioninfo   1.2.2   2021-12-06 [?] CRAN (R 4.3.3)
+ P shiny         1.8.1   2024-03-26 [?] CRAN (R 4.3.3)
+ P stringi       1.8.3   2023-12-11 [?] CRAN (R 4.3.2)
+ P stringr     * 1.5.1   2023-11-14 [?] CRAN (R 4.3.3)
+ P tibble      * 3.2.1   2023-03-20 [?] CRAN (R 4.3.3)
+ P tidyr       * 1.3.1   2024-01-24 [?] CRAN (R 4.3.3)
+ P tidyselect    1.2.1   2024-03-11 [?] CRAN (R 4.3.3)
+ P tidyverse   * 2.0.0   2023-02-22 [?] CRAN (R 4.3.3)
+ P timechange    0.3.0   2024-01-18 [?] CRAN (R 4.3.3)
+ P tzdb          0.4.0   2023-05-12 [?] CRAN (R 4.3.3)
+ P urlchecker    1.0.1   2021-11-30 [?] CRAN (R 4.3.3)
+ P usethis       2.2.3   2024-02-19 [?] CRAN (R 4.3.3)
+ P utf8          1.2.4   2023-10-22 [?] CRAN (R 4.3.3)
+ P vctrs         0.6.5   2023-12-01 [?] CRAN (R 4.3.3)
+ P withr         3.0.0   2024-01-16 [?] CRAN (R 4.3.3)
+ P xfun          0.43    2024-03-25 [?] CRAN (R 4.3.3)
+ P xtable        1.8-4   2019-04-21 [?] CRAN (R 4.3.3)
+ P yaml          2.3.8   2023-12-11 [?] CRAN (R 4.3.2)
 
- [1] C:/Users/4p0nc/OneDrive - hawaii.edu/Desktop/high-sierra-nf-rfm/github-repo/high-sierra-nf-rfm/renv/library/R-4.2/x86_64-w64-mingw32
- [2] C:/Users/4p0nc/AppData/Local/R/cache/R/renv/sandbox/R-4.2/x86_64-w64-mingw32/19d6eec0
+ [1] C:/Users/4p0nc/OneDrive - hawaii.edu/Desktop/high-sierra-nf-rfm/github-repo/high-sierra-nf-rfm/renv/library/R-4.3/x86_64-w64-mingw32
+ [2] C:/Users/4p0nc/AppData/Local/R/cache/R/renv/sandbox/R-4.3/x86_64-w64-mingw32/7cdaab8d
 
  P ── Loaded and on-disk path mismatch.
 
